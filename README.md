@@ -53,23 +53,7 @@ The overall system consists of three major components:
    - Communication status
    - Active communication channel
 
-> **Add your architecture diagram here**
-
-```markdown
-![System Architecture](assets/system_block_diagram.png)
-```
-
-Example folder:
-
-```
-LoRa-AntiJamming-Gateway/
-│
-├── assets/
-│     └── system_block_diagram.png
-│
-├── src/
-├── README.md
-```
+>
 
 ---
 
