@@ -293,13 +293,7 @@ The paper includes:
 - LoRaWAN Integration
 - Blockchain-Based Authentication
 
----
 
-# 📷 Project Images
-
-Add images inside the **assets/** folder.
-
-```markdown
 ## Hardware Setup
 
 ![Gateway](assets/gateway.jpg)
