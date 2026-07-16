@@ -278,15 +278,6 @@ The paper includes:
 - Blockchain-Based Authentication
 
 
-## Hardware Setup
-
-![Gateway](assets/gateway.jpg)
-
-## Dashboard
-
-![Dashboard](assets/dashboard.png)
-```
-
 ---
 
 # 👨‍💻 Author
